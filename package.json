@@ -1,0 +1,17 @@
+{
+  "name": "markdownediter",
+  "version": "1.0.0",
+  "description": "markdownediter",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "markdown"
+  ],
+  "author": "emperinter",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^14.0.0"
+  }
+}
